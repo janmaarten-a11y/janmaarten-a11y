@@ -1,7 +1,7 @@
 ## README
 
-Inclusive designer, privacy advocate, writer, and future hermit.
+Hello, I'm Jan. I'm a design engineer, accessibility specialist, privacy advocate, writer, and future hermit.
 
-Working on tools and techniques that bring designers and engineers together to make more accessible experiences.
+I help teams build better stuff. After decades of making inaccessible crap, I write docs people read, build tools that make them faster, and create workflows that get designers and developers on the same page. 
 
-_Nothing about us without us._
+Mostly annotation kits and hot takes.
